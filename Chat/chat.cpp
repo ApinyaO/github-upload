@@ -6,7 +6,7 @@
 #include <stdlib.h>
 
 #pragma comment(lib,"WSock32.lib")
-
+//add
 void ChatServer(void) {
 	SOCKET listen_s;
 	SOCKET s;
